@@ -1,0 +1,2 @@
+# -Bank-Customer-Churn-Prediction---SQL-Power-BI-Analytics-Project
+ This is a comprehensive data analytics project combining **SQL  and **Power BI visualization** to predict and understand bank customer churn patterns. The project analyzes 10,000 customer records to identify key factors contributing to customer churn and provides actionable business insights through interactive dashboards and detailed SQL queries
